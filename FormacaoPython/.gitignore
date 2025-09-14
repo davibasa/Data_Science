@@ -1,0 +1,19 @@
+# Ignorar arquivos sensíveis e temporários
+*.pem
+*.tmp
+*.log
+
+# Ignorar arquivos Python compilados
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar ambientes virtuais
+venv/
+env/
+.venv/
+.env/
+
+# Ignorar arquivos de configuração do VSCode
+.vscode/
